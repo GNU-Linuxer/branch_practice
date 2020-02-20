@@ -1,1 +1,1 @@
-"Good morning"
+print("Hello Git Great")
