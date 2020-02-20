@@ -6,6 +6,7 @@ These are a few of my favorite things:
 - Flower gardenia
 - Flower
 - Raindrops on roses
+- Whiskers on puppies
 - Whiskers on boxplot!!
 - Bright copper kettles
 - Warm woolen mittens
